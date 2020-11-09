@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T09:25:08.546Z" agent="5.0 (Windows)" etag="hYCsZI1xcEo97hYeeklr" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T09:32:21.676Z" agent="5.0 (Windows)" etag="q1vL0aJpFPf2ulP0gVn1" version="13.9.2" type="github">
   <diagram id="7ZiH7zOeiX9_COY_xwUg" name="Page-1">
     <mxGraphModel dx="1358" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="X3AbKdp-ricjODkaEyMr-12" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;truth-table-01.json&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="X3AbKdp-ricjODkaEyMr-17">
           <mxGeometry width="560" height="18.095238095238095" as="geometry" />
-        </mxCell>
-        <mxCell id="X3AbKdp-ricjODkaEyMr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.022;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="X3AbKdp-ricjODkaEyMr-17" source="X3AbKdp-ricjODkaEyMr-12" target="X3AbKdp-ricjODkaEyMr-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X3AbKdp-ricjODkaEyMr-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="40" width="120" height="43" as="geometry" />
